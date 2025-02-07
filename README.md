@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=1A9AFF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Gustavo+Henrique!;+Desenvolvedor+Full+Stack+em+evolução!;Apaixonado+por+tecnologia+e+inovação.+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=1A9AFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Gustavo+Henrique!;+Full+Stack+Developer+in+evolution!;Passionate+about+technology+and+innovation.+" alt="Typing SVG" />
 </div>
 
 # 🌟 **Gustavo Henrique**  
@@ -12,10 +12,10 @@
 
 ---
 
-## 👨‍💻 **Sobre mim**  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **[Unibra](https://www.unibra.edu.br/)** (2023 - Cursando).  
-💡 Apaixonado por tecnologia e sempre em busca de **soluções criativas, eficientes e escaláveis**.  
-🚀 Focado no desenvolvimento **Full Stack**, aprimorando minhas habilidades em **JavaScript**, **React** e **Node.js** para criar projetos inovadores e de impacto.  
+## 👨‍💻 **About Me**  
+🎓 Currently studying **Systems Analysis and Development** at **[Unibra](https://www.unibra.edu.br/)** (2023 - Ongoing).  
+💡 A curious and tech-obsessed developer, constantly evolving to create **innovative**, **efficient**, and **scalable solutions**.  
+🚀 Focused on **Full Stack Development**, I am enhancing my skills in **JavaScript**, **React**, and **Node.js** to deliver modern, impactful projects.  
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
@@ -25,7 +25,7 @@
 
 ## 🛠️ **Tech Stack**  
 
-### 🚀 **Linguagens & Frameworks**  
+### 🚀 **Languages & Frameworks**  
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
@@ -36,13 +36,13 @@
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
 </div>  
 
-### 🗄️ **Banco de Dados & Versionamento**  
+### 🗄️ **Databases & Version Control**  
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>  
 
-### ⚙️ **Ferramentas & Plataformas**  
+### ⚙️ **Tools & Platforms**  
 <div align="center">
   <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -51,7 +51,7 @@
 
 ---
 
-## 📊 **Estatísticas do GitHub**  
+## 📊 **GitHub Stats**  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenrique&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique&layout=compact&langs_count=7&theme=radical" />
@@ -59,17 +59,17 @@
 
 ---
 
-## 🚀 **Projetos em Destaque**  
-📌 **[Meu Projeto 1](#)** – Projeto focado em React e Node.js, implementando funcionalidades modernas e responsivas.  
-📌 **[Meu Projeto 2](#)** – Aplicação Python para automação de tarefas e análise de dados.  
+## 🚀 **Featured Projects**  
+📌 **[Project 1](#)** – A React and Node.js-based project implementing modern features and responsive design.  
+📌 **[Project 2](#)** – A Python application for task automation and data analysis.  
 
-**➡️ Mais projetos em breve! Fique de olho!**  
+**➡️ More projects coming soon! Stay tuned!**  
 
 ---
 
-## 📫 **Entre em Contato**  
-📧 **E-mail:** gustavo@example.com  
-💬 Sempre disponível para conversar sobre novas ideias, projetos e parcerias!  
+## 📫 **Get in Touch**  
+📧 **Email:** gustavo@example.com  
+💬 I'm always open to discussing new ideas, projects, and partnerships!  
 
 ---
 
