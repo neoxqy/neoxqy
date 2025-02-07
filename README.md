@@ -1,11 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=1E90FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil+GitHub!;Eu+sou+Gustavo+Henrique!;Desenvolvedor+Full+Stack+em+evolução!;Apaixonado+por+tecnologia+e+inovação!+🚀" alt="Typing SVG" />
-</div>
-
----
-
-# 🌟 **Gustavo Henrique**  
-<div align="center">  
   <a href="https://www.instagram.com/gustavo__xp/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
   <a href="https://www.linkedin.com/in/gustavo-henriqueqy/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="https://discord.com/channels/neoxrs_"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>  
@@ -13,9 +6,17 @@
 
 ---
 
+# 👋 **Hello World!**  
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=1E90FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil+GitHub!;Eu+sou+Gustavo+Henrique!;Desenvolvedor+Full+Stack+em+evolução!;Apaixonado+por+tecnologia+e+inovação!+🚀" alt="Typing SVG" />
+</div>
+
+---
+
 ## 👨‍💻 **Sobre mim**  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **[Unibra](https://www.unibra.edu.br/)** (2023 - Cursando).  
-💡 **Apaixonado por tecnologia e inovação**, sempre busco aprender algo novo para criar soluções **eficientes**, **criativas** e **escaláveis**.  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na **[Unibra](https://www.unibra.edu.br/)** *(2023 - Cursando)*.  
+💡 **Apaixonado por tecnologia**, sempre em busca de aprender algo novo para criar soluções **eficientes**, **criativas** e **escaláveis**.  
 🚀 Atualmente focado em desenvolvimento **Full Stack**, aprimorando minhas habilidades em **React**, **Node.js** e **Python**.  
 
 <div align="center">
