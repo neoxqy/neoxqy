@@ -13,9 +13,9 @@
 ---
 
 ## 👨‍💻 **About Me**  
-🎓 Currently studying **Systems Analysis and Development** at **[Unibra](https://www.unibra.edu.br/)** (2023 - Ongoing).  
-💡 A curious and tech-obsessed developer, constantly evolving to create **innovative**, **efficient**, and **scalable solutions**.  
-🚀 Focused on **Full Stack Development**, I am enhancing my skills in **JavaScript**, **React**, and **Node.js** to deliver modern, impactful projects.  
+🎓 Currently pursuing a degree in **Systems Analysis and Development** at **[Unibra](https://www.unibra.edu.br/)** (2023 - Ongoing).  
+💡 A passionate and endlessly curious developer, committed to continuous improvement to create **innovative**, **scalable**, and **efficient solutions**.  
+🚀 My focus is on **Full Stack Development**, and I’m refining my skills in **JavaScript**, **React**, and **Node.js** to build high-impact, modern applications.  
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
@@ -60,20 +60,20 @@
 ---
 
 ## 🚀 **Featured Projects**  
-📌 **[Project 1](#)** – A React and Node.js-based project implementing modern features and responsive design.  
-📌 **[Project 2](#)** – A Python application for task automation and data analysis.  
+📌 **[Project 1](#)** – A dynamic React and Node.js project featuring cutting-edge technology and responsive design.  
+📌 **[Project 2](#)** – A Python-based application for automating tasks and analyzing data.
 
-**➡️ More projects coming soon! Stay tuned!**  
+**➡️ Stay tuned for more exciting projects coming soon!**
 
 ---
 
 ## 📫 **Get in Touch**  
 📧 **Email:** gustavo@example.com  
-💬 I'm always open to discussing new ideas, projects, and partnerships!  
+💬 I’m always eager to discuss new ideas, collaborations, and potential partnerships!
 
 ---
 
 <div align="center">  
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="150" />
-  <h3>⚡ Let's build something awesome together! ⚡</h3>  
+  <h3>⚡ Let's create something amazing together! ⚡</h3>  
 </div>
