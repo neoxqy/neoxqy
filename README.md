@@ -1,23 +1,23 @@
 <div align="center">
-  <a href="https://www.instagram.com/gustavo__xp/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-  <a href="https://www.linkedin.com/in/gustavo-henriqueqy/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://discord.com/channels/neoxrs_"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>  
-</div>  
-
----
-
-# 👋 **Hello World!**  
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=1E90FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil+GitHub!;Eu+sou+Gustavo+Henrique!;Desenvolvedor+Full+Stack+em+evolução!;Apaixonado+por+tecnologia+e+inovação!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=00FFFF&center=true&vCenter=true&width=900&lines=👋+Hello+World!;Bem-vindo+ao+meu+perfil+GitHub!;Eu+sou+Gustavo+Henrique!;Desenvolvedor+Full+Stack+em+evolução!;Apaixonado+por+tecnologia+e+inovação!+🚀" alt="Typing SVG" />
 </div>
 
 ---
 
-## 👨‍💻 **Sobre mim**  
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na **[Unibra](https://www.unibra.edu.br/)** *(2023 - Cursando)*.  
-💡 **Apaixonado por tecnologia**, sempre em busca de aprender algo novo para criar soluções **eficientes**, **criativas** e **escaláveis**.  
-🚀 Atualmente focado em desenvolvimento **Full Stack**, aprimorando minhas habilidades em **React**, **Node.js** e **Python**.  
+# **Gustavo Henrique**  
+<div align="center">  
+  <a href="https://www.instagram.com/gustavo__xp/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/gustavo-henriqueqy/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://discord.com/channels/neoxrs_"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>  
+</div>
+
+---
+
+## 👨‍💻 **Sobre Mim**  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na **[Unibra](https://www.unibra.edu.br/)** *(2023 - Cursando)*  
+💡 **Apaixonado por tecnologia**, focado em aprender constantemente e criar soluções **eficientes**, **criativas** e **escaláveis**  
+🚀 Explorando o universo **Full Stack**, aprimorando habilidades em **React**, **Node.js**, **Python** e **Java**  
+🌱 Interessado em **Machine Learning** e **Desenvolvimento Mobile**  
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
@@ -53,25 +53,25 @@
 
 ---
 
-## 📊 **Estatísticas do GitHub**  
+## 📊 **GitHub Stats**  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenrique&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique&layout=compact&langs_count=7&theme=radical" />
 </div>  
 
 ---
 
 ## 🚀 **Projetos em Destaque**  
-📌 **[Meu Projeto 1](#)** – Aplicação focada em React e Node.js, com funcionalidades modernas e responsivas.  
-📌 **[Meu Projeto 2](#)** – Sistema de automação em Python para análise de dados.  
+📌 **[Meu Projeto 1](#)** – Aplicação moderna com React e Node.js, focada em performance e responsividade  
+📌 **[Meu Projeto 2](#)** – Sistema de automação em Python para análise e visualização de dados  
 
-**➡️ Mais projetos em breve!**  
+**➡️ Mais projetos em breve!**
 
 ---
 
 ## 📫 **Entre em Contato**  
 📧 **E-mail:** gustavo@example.com  
-💬 Sempre disponível para novas ideias, projetos e colaborações!  
+💬 Sempre aberto a colaborações e novas ideias!  
 
 ---
 
