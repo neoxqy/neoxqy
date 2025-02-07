@@ -3,6 +3,9 @@
 </div>
 
 # 🌟 **Gustavo Henrique**  
+<div align="center">
+  <img src="/mnt/data/A_professional,_sleek_logo_design_for_a_Full_Stack.png" alt="Gustavo Henrique Logo" width="120" align="left" />
+</div>
 
 <div align="center">  
   <a href="https://www.instagram.com/gustavo__xp/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
@@ -13,9 +16,9 @@
 ---
 
 ## 👨‍💻 **About Me**  
-🎓 Currently pursuing a degree in **Systems Analysis and Development** at **[Unibra](https://www.unibra.edu.br/)** (2023 - Ongoing).  
-💡 A passionate and endlessly curious developer, committed to continuous improvement to create **innovative**, **scalable**, and **efficient solutions**.  
-🚀 My focus is on **Full Stack Development**, and I’m refining my skills in **JavaScript**, **React**, and **Node.js** to build high-impact, modern applications.  
+🎓 I’m currently studying **Systems Analysis and Development** at **[Unibra](https://www.unibra.edu.br/)** (2023 - Ongoing).  
+💡 A developer driven by curiosity and passion for technology, constantly evolving to build **innovative**, **efficient**, and **scalable solutions**.  
+🚀 My focus is on **Full Stack Development**, where I’m sharpening my expertise in **JavaScript**, **React**, and **Node.js** to create powerful and impactful digital experiences.
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
@@ -60,20 +63,20 @@
 ---
 
 ## 🚀 **Featured Projects**  
-📌 **[Project 1](#)** – A dynamic React and Node.js project featuring cutting-edge technology and responsive design.  
-📌 **[Project 2](#)** – A Python-based application for automating tasks and analyzing data.
+📌 **[Project 1](#)** – A cutting-edge project built using React and Node.js, focusing on seamless user experience and modern functionalities.  
+📌 **[Project 2](#)** – A powerful Python application for task automation and data-driven insights.  
 
-**➡️ Stay tuned for more exciting projects coming soon!**
+**➡️ More projects coming soon! Stay tuned!**  
 
 ---
 
 ## 📫 **Get in Touch**  
 📧 **Email:** gustavo@example.com  
-💬 I’m always eager to discuss new ideas, collaborations, and potential partnerships!
+💬 Always excited to connect with like-minded professionals, share ideas, and collaborate on innovative projects!  
 
 ---
 
 <div align="center">  
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="150" />
-  <h3>⚡ Let's create something amazing together! ⚡</h3>  
+  <h3>⚡ Let’s create something amazing together! ⚡</h3>  
 </div>
