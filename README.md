@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=1A9AFF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Gustavo+Henrique!;Desenvolvedor+Full+Stack+em+evolução!;Apaixonado+por+tecnologia+e+inovação.+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=1A9AFF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Gustavo+Henrique!; Desenvolvedor+Full+Stack+em+evolução!;Apaixonado+por+tecnologia+e+inovação.+" alt="Typing SVG" />
 </div>
 
 # 🌟 **Gustavo Henrique**  
