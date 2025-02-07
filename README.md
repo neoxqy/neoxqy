@@ -14,8 +14,8 @@
 
 ## 👨‍💻 **Sobre mim**  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **[Unibra](https://www.unibra.edu.br/)** (2023 - Cursando).  
-💡 Sempre curioso e apaixonado por tecnologia, estou em constante evolução para criar soluções **eficientes**, **criativas** e **escaláveis**.  
-🚀 Atualmente focado em desenvolvimento **Full Stack**, aprimorando minhas habilidades em **JavaScript**, **React** e **Node.js**.  
+💡 Apaixonado por tecnologia e sempre em busca de **soluções criativas, eficientes e escaláveis**.  
+🚀 Focado no desenvolvimento **Full Stack**, aprimorando minhas habilidades em **JavaScript**, **React** e **Node.js** para criar projetos inovadores e de impacto.  
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
