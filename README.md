@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=1A9AFF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Eu+sou+Gustavo+Henrique!;Desenvolvedor+Full+Stack+em+evolução!;Apaixonado+por+tecnologia+e+inovação.+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=500&color=1E90FF&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+perfil+GitHub!;Eu+sou+Gustavo+Henrique!;Desenvolvedor+Full+Stack+em+evolução!;Apaixonado+por+tecnologia+e+inovação!+🚀" alt="Typing SVG" />
 </div>
 
-# 🌟 **Gustavo Henrique**  
+---
 
+# 🌟 **Gustavo Henrique**  
 <div align="center">  
   <a href="https://www.instagram.com/gustavo__xp/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
   <a href="https://www.linkedin.com/in/gustavo-henriqueqy/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
@@ -14,11 +15,11 @@
 
 ## 👨‍💻 **Sobre mim**  
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **[Unibra](https://www.unibra.edu.br/)** (2023 - Cursando).  
-💡 Sempre curioso e apaixonado por tecnologia, estou em constante evolução para criar soluções **eficientes**, **criativas** e **escaláveis**.  
-🚀 Atualmente focado em desenvolvimento **Full Stack**, aprimorando minhas habilidades em **JavaScript**, **React** e **Node.js**.  
+💡 **Apaixonado por tecnologia e inovação**, sempre busco aprender algo novo para criar soluções **eficientes**, **criativas** e **escaláveis**.  
+🚀 Atualmente focado em desenvolvimento **Full Stack**, aprimorando minhas habilidades em **React**, **Node.js** e **Python**.  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
 </div>
 
 ---
@@ -53,27 +54,27 @@
 
 ## 📊 **Estatísticas do GitHub**  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenrique&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique&layout=compact&langs_count=7&theme=tokyonight" />
 </div>  
 
 ---
 
 ## 🚀 **Projetos em Destaque**  
-📌 **[Meu Projeto 1](#)** – Projeto focado em React e Node.js, implementando funcionalidades modernas e responsivas.  
-📌 **[Meu Projeto 2](#)** – Aplicação Python para automação de tarefas e análise de dados.  
+📌 **[Meu Projeto 1](#)** – Aplicação focada em React e Node.js, com funcionalidades modernas e responsivas.  
+📌 **[Meu Projeto 2](#)** – Sistema de automação em Python para análise de dados.  
 
-**➡️ Mais projetos em breve! Fique de olho!**  
+**➡️ Mais projetos em breve!**  
 
 ---
 
 ## 📫 **Entre em Contato**  
 📧 **E-mail:** gustavo@example.com  
-💬 Sempre disponível para conversar sobre novas ideias, projetos e parcerias!  
+💬 Sempre disponível para novas ideias, projetos e colaborações!  
 
 ---
 
 <div align="center">  
   <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="150" />
-  <h3>⚡ Let's build something awesome together! ⚡</h3>  
+  <h3>⚡ Vamos construir algo incrível juntos! ⚡</h3>  
 </div>
