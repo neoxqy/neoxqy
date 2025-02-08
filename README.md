@@ -62,8 +62,10 @@
 ## 📊 **GitHub Stats**  
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenrique&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gustavohenrique&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
-</div>  
+</div>
+
 
 ---
 
