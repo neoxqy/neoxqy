@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=1A9AFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;I'm+Gustavo+Henrique!;Full+Stack+Developer+in+progress!;Passionate+about+technology+and+innovation." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=1A9AFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;I'm+Gustavo+Henrique!;Full+Stack+Developer+in+progress!;Passionate+about+technology+and+innovation." alt="Typing SVG" />
 </div>
 
 # 🌟 **Gustavo Henrique**  
@@ -19,9 +19,9 @@
 ---
 
 ## 👨‍💻 **About Me**  
-🎓 Student of **Systems Analysis and Development** at **[Unibra](https://www.unibra.edu.br/)** (2023 - Present).  
-💡 Always curious and passionate about technology, I’m constantly evolving to create **efficient**, **creative**, and **scalable** solutions.  
-🚀 Currently focused on **Full Stack Development**, improving my skills in **JavaScript**, **React**, and **Node.js**.  
+🎓 **Student** of **Systems Analysis and Development** at **[Unibra](https://www.unibra.edu.br/)** (2023 - Present).  
+💡 **Curious and passionate** about technology, I am always seeking to evolve and create **efficient**, **creative**, and **scalable** solutions.  
+🚀 **Focused on Full Stack Development**, improving my skills in **JavaScript**, **React**, and **Node.js** to build innovative projects.  
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
@@ -75,7 +75,7 @@
 
 ## 📫 **Get in Touch**  
 📧 **Email:** gustavo@example.com  
-💬 Always available to talk about new ideas, projects, and collaborations!  
+💬 Always open to discussing new ideas, projects, and collaborations!  
 
 ---
 
