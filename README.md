@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=10000&color=FF5733&center=true&vCenter=true&width=700&lines=Gustavo+Henrique" alt="Name SVG" />
-  <hr style="width: 70%; border: 1px solid #FF5733;" />
+  <hr style="width: 70%; " />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=1A9AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Full+Stack+Developer+in+progress!;Passionate+about+technology+and+innovation." alt="Typing SVG" />
 </div>
 
