@@ -2,8 +2,6 @@
   <h1 style="color:#1A9AFF;">Gustavo Henrique</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=1A9AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;I'm+Gustavo+Henrique!;Full+Stack+Developer+in+progress!;Passionate+about+technology+and+innovation." alt="Typing SVG" />
 </div>
-
-
 <div align="center">
   <a href="https://www.instagram.com/gustavo__xp/" target="_blank">
     <img src="https://img.icons8.com/3d-fluency/50/instagram-new.png" alt="Instagram" height="50" />
