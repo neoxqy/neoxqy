@@ -1,12 +1,9 @@
 <div align="center">
-  <h1 style="color:#1A9AFF;">Gustavo Henrique</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=500&color=1A9AFF&center=true&vCenter=true&width=700&lines=Gustavo+Henrique" alt="Name SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=1A9AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;I'm+Gustavo+Henrique!;Full+Stack+Developer+in+progress!;Passionate+about+technology+and+innovation." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/gustavo-henriqueqy" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/50/github.png" alt="GitHub" height="50" />
-  </a>
   <a href="https://www.instagram.com/gustavo__xp/" target="_blank">
     <img src="https://img.icons8.com/3d-fluency/50/instagram-new.png" alt="Instagram" height="50" />
   </a>
@@ -46,9 +43,10 @@
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>  
 
-### 🗄️ **Database & Version Control**  
+### 💄️ **Database & Version Control**  
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
