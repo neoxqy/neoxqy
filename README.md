@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=500&color=FF5733&center=true&vCenter=true&width=700&lines=Gustavo+Henrique" alt="Name SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=10000&color=FF5733&center=true&vCenter=true&width=700&lines=Gustavo+Henrique" alt="Name SVG" />
+  <hr style="width: 70%; border: 1px solid #FF5733;" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=1A9AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;I'm+Gustavo+Henrique!;Full+Stack+Developer+in+progress!;Passionate+about+technology+and+innovation." alt="Typing SVG" />
 </div>
 
@@ -46,7 +47,7 @@
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>  
 
-### 💄️ **Database & Version Control**  
+### 💴️ **Database & Version Control**  
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
