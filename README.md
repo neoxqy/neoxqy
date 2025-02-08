@@ -65,16 +65,12 @@
 
 ---
 
-## 🚀 **Featured Projects**  
-📌 **[Project 1](#)** – React and Node.js project with modern and responsive features.  
-📌 **[Project 2](#)** – Python application for task automation and data analysis.  
-
 **➡️ More projects coming soon! Stay tuned!**  
 
 ---
 
 ## 📫 **Get in Touch**  
-📧 **Email:** gustavo@example.com  
+📧 **Email:** gustavoneox19@gmail.com  
 💬 **Always open to discussing** new ideas, projects, and collaborations!  
 
 ---
