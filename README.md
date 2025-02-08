@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.instagram.com/gustavo__xp/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="40" />
+    <img src="https://img.icons8.com/3d-fluency/50/000000/instagram-new.png" alt="Instagram" height="50" style="margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-henriqueqy/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" height="40" />
+    <img src="https://img.icons8.com/3d-fluency/50/000000/linkedin.png" alt="LinkedIn" height="50" style="margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://discord.com/users/neoxrs_" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" alt="Discord" height="40" />
+    <img src="https://img.icons8.com/3d-fluency/50/000000/discord-logo.png" alt="Discord" height="50" style="margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </div>
 
