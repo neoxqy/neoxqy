@@ -4,17 +4,17 @@
 
 # 🌟 **Gustavo Henrique**  
 
-<div align="center">  
+<div align="center">
   <a href="https://www.instagram.com/gustavo__xp/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>  
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="40" />
+  </a>
   <a href="https://www.linkedin.com/in/gustavo-henriqueqy/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>  
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" height="40" />
+  </a>
   <a href="https://discord.com/users/neoxrs_" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>  
-</div>  
+    <img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" alt="Discord" height="40" />
+  </a>
+</div>
 
 ---
 
