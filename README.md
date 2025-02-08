@@ -6,13 +6,13 @@
 
 <div align="center">
   <a href="https://www.instagram.com/gustavo__xp/" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/50/instagram-new.png" alt="Instagram" height="50" style="margin: 0 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/3d-fluency/50/instagram-new.png" alt="Instagram" height="50" />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-henriqueqy/" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/50/linkedin.png" alt="LinkedIn" height="50" style="margin: 0 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/3d-fluency/50/linkedin.png" alt="LinkedIn" height="50" />
   </a>
   <a href="https://discord.com/users/neoxrs_" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/50/discord-logo.png" alt="Discord" height="50" style="margin: 0 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/3d-fluency/50/discord-logo.png" alt="Discord" height="50" />
   </a>
 </div>
 
@@ -56,20 +56,6 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
-
----
-
-## 📊 **GitHub Stats**  
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenrique&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gustavohenrique&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
-</div>
-
-
----
-
-**➡️ More projects coming soon! Stay tuned!**  
 
 ---
 
