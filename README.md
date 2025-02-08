@@ -21,7 +21,7 @@
 ## 👨‍💻 **About Me**  
 🎓 **Student** of **Systems Analysis and Development** at **[Unibra](https://www.unibra.edu.br/)** (2023 - Present).  
 💡 **Curious and passionate** about technology, I am always seeking to evolve and create **efficient**, **creative**, and **scalable** solutions.  
-🚀 **Focused on Full Stack Development**, improving my skills in **JavaScript**, **React**, and **Node.js** to build innovative projects.  
+🚀 **Focused on Full Stack Development**, improving my skills in **JavaScript**, **React**, **Node.js**, and **Next.js** to build innovative projects.  
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" />
@@ -34,11 +34,13 @@
 ### 🚀 **Languages & Frameworks**  
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-%2344A154.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
 </div>  
 
