@@ -5,14 +5,14 @@
 # 🌟 **Gustavo Henrique**  
 
 <div align="center">  
-  <a href="https://www.instagram.com/gustavo__xp/">
-    <img src="https://img.shields.io/badge/-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/gustavo__xp/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>  
-  <a href="https://www.linkedin.com/in/gustavo-henriqueqy/">
-    <img src="https://img.shields.io/badge/-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/gustavo-henriqueqy/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>  
-  <a href="https://discord.com/channels/neoxrs_">
-    <img src="https://img.shields.io/badge/-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://discord.com/users/neoxrs_" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>  
 </div>  
 
@@ -59,8 +59,8 @@
 
 ## 📊 **GitHub Stats**  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenrique&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohenrique&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohenrique&layout=compact&langs_count=7&theme=radical" alt="Top Languages" />
 </div>  
 
 ---
@@ -75,7 +75,7 @@
 
 ## 📫 **Get in Touch**  
 📧 **Email:** gustavo@example.com  
-💬 Always open to discussing new ideas, projects, and collaborations!  
+💬 **Always open to discussing** new ideas, projects, and collaborations!  
 
 ---
 
