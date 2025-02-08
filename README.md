@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 60px; font-weight: bold; color: #1A9AFF;">Gustavo Henrique</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=500&color=1A9AFF&center=true&vCenter=true&width=700&lines=Gustavo+Henrique" alt="Name SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=1A9AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;I'm+Gustavo+Henrique!;Full+Stack+Developer+in+progress!;Passionate+about+technology+and+innovation." alt="Typing SVG" />
 </div>
 
@@ -32,17 +32,31 @@
 
 ### 🚀 **Languages & Frameworks**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,java,c,react,nodejs,nextjs,express,vite,github" alt="Tech Stack Icons" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%2344A154.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div>  
 
 ### 💄️ **Database & Version Control**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git" alt="Database & Version Control Icons" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>  
 
 ### ⚙️ **Tools & Platforms**  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=netlify,html,css" alt="Tools & Platforms Icons" />
+  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ---
