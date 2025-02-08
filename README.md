@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=1A9AFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;I'm+Gustavo+Henrique!;Full+Stack+Developer+in+progress!;Passionate+about+technology+and+innovation." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=1A9AFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;I'm+Gustavo+Henrique!;Full+Stack+Developer+in+progress!;Passionate+about+technology+and+innovation." alt="Typing SVG" />
 </div>
 
 # 🌟 **Gustavo Henrique**  
 
 <div align="center">
   <a href="https://www.instagram.com/gustavo__xp/" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/50/000000/instagram-new.png" alt="Instagram" height="50" style="margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/3d-fluency/50/instagram-new.png" alt="Instagram" height="50" style="margin: 0 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.linkedin.com/in/gustavo-henriqueqy/" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/50/000000/linkedin.png" alt="LinkedIn" height="50" style="margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/3d-fluency/50/linkedin.png" alt="LinkedIn" height="50" style="margin: 0 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://discord.com/users/neoxrs_" target="_blank">
-    <img src="https://img.icons8.com/3d-fluency/50/000000/discord-logo.png" alt="Discord" height="50" style="margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://img.icons8.com/3d-fluency/50/discord-logo.png" alt="Discord" height="50" style="margin: 0 15px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </div>
 
